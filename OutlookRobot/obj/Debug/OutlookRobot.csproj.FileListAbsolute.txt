@@ -1,0 +1,10 @@
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\bin\Debug\OutlookRobot.exe.config
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\bin\Debug\OutlookRobot.exe
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\bin\Debug\OutlookRobot.pdb
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\OutlookRobot.csprojAssemblyReference.cache
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\Interop.ACTIVEXLib.dll
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\Interop.MSDATASRC.dll
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\OutlookRobot.csproj.ResolveComReference.cache
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\OutlookRobot.csproj.CoreCompileInputs.cache
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\OutlookRobot.exe
+C:\workarea\tools_cargas\OutlookRobot\OutlookRobot\obj\Debug\OutlookRobot.pdb
